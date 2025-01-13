@@ -120,7 +120,6 @@
   echo '<button type="submit">Buscar</button>';
   echo '</form>';
 
-  // Solo mostrar resultados si hay búsqueda
   if ($search) {
       echo "<h2>Resultados:</h2>";
       echo "<ul>";
